@@ -1,8 +1,4 @@
-
-
-
-https://user-images.githubusercontent.com/105447582/233246332-588ea4bd-fa6b-4437-80e5-f517340c2885.mp4
-
+![banner](https://user-images.githubusercontent.com/105447582/233246548-f54e1764-7ade-46b8-b552-bce2025b40f4.png)
 
 <!--
 **Lynsiearagon/Lynsiearagon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
