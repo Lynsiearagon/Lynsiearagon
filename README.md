@@ -1,5 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/105447582/233246548-f54e1764-7ade-46b8-b552-bce2025b40f4.png)
 
+Checkout my Portfolio: https://lynsiearagon.github.io/Lynsie-portfolio/
+
 <!--
 **Lynsiearagon/Lynsiearagon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
