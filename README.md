@@ -1,4 +1,5 @@
-![banner](https://user-images.githubusercontent.com/105447582/233246548-f54e1764-7ade-46b8-b552-bce2025b40f4.png)
+![banner5](https://github.com/Lynsiearagon/Lynsiearagon/assets/105447582/e38d7f1b-0e7a-4528-817d-9181424b4b84)
+
 
 Checkout my Portfolio: https://lynsiearagon.github.io/Lynsie-portfolio/
 
