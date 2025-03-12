@@ -1,7 +1,7 @@
 ![banner5](https://github.com/Lynsiearagon/Lynsiearagon/assets/105447582/e38d7f1b-0e7a-4528-817d-9181424b4b84)
 
 
-Welcome! I'm Lynsie, a frontend-focused full stack developer with a frontend focus and an avid bowler!
+Welcome! I'm Lynsie, a full stack developer with a frontend focus and an avid bowler!
 
 <!--
 **Lynsiearagon/Lynsiearagon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
