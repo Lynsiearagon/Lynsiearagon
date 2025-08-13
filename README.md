@@ -1,7 +1,7 @@
 ![banner5](https://github.com/Lynsiearagon/Lynsiearagon/assets/105447582/e38d7f1b-0e7a-4528-817d-9181424b4b84)
 
 
-## Welcome! 
+# Welcome! 
 
 I'm Lynsie, a Full Stack Developer with a passion for frontend engineering (but I can do backend, too). 
 
@@ -15,7 +15,7 @@ I have a background in legal and find that my organization, communication, and a
 - JavaScript
 - Tailwind
 - SQL Databases
-- Azure Cloud Services.
+- Azure Cloud Services
 
 ### Other technologies I have experience with are:
 
