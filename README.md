@@ -5,7 +5,9 @@
 
 I'm Lynsie, a Full Stack Developer with a passion for frontend engineering (but I can do backend, too). 
 
-I'm currently a freelance software developer and have over two and a half years of professional experience in the field. While I'm not a "vibe coder," I do find tools like Cursor and Copilot to be helpful for things like scaffolding components and debugging sytax errors. 
+I'm currently a freelance software developer and have over two and a half years of professional experience in the field. 
+
+While I'm not a "vibe coder," I do find tools like Cursor and Copilot to be helpful for things like scaffolding components and debugging syntax errors. 
 
 I have a background in legal and find that my organization, communication, and attention to detail are very useful in my engineering career.
 
