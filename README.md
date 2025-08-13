@@ -3,6 +3,12 @@
 
 Welcome! I'm Lynsie, a full stack developer with a frontend focus and an avid bowler! 🎳
 
+I'm currently a freelance software developer and have over two and a half years of professional experience in the field. 
+
+The technologies I use the most are Next.js, JavaScript, SQL Databases, and Azure Cloud Services.
+
+I have a background in legal and find that my organization, communication, and attention to detail really helps me to be a successful software engineer.
+
 <!--
 **Lynsiearagon/Lynsiearagon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
