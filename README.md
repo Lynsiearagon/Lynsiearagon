@@ -3,25 +3,22 @@
 
 # Welcome! 
 
-I'm Lynsie, a Full Stack Developer with a passion for frontend engineering (but I can do backend, too). 
+I'm Lynsie, a Full Stack Developer with a passion for frontend engineering and user experience. 
 
-I'm currently a freelance software developer and have over two and a half years of professional experience in the field. 
-
-While I'm not a "vibe coder," I do find tools like Cursor and Copilot to be helpful for things like scaffolding components and debugging syntax errors. 
+I'm currently a web developer at T2 Marketing Communications and have over two and a half years of professional experience in the field. 
 
 I have a background in legal and find that my organization, communication, and attention to detail are very useful in my engineering career.
 
 ## Technology Highlights 💻
 ### The technologies I use the most, professionally, are:
 - Next.js
-- JavaScript
+- Typescript/JavaScript
 - Tailwind
 - SQL Databases
 - Azure Cloud Services
 
 ### Other technologies I have experience with are:
 
-- TypeScript
 - Ruby on Rails
 - Python
 - MERN Stack
