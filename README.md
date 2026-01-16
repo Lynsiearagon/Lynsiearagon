@@ -14,6 +14,7 @@ I have a background in legal and find that my organization, communication, and a
 - Typescript/JavaScript
 - Tailwind
 - SQL Databases
+- Cursor
 - Azure Cloud Services
 
 ### Other technologies I have experience with are:
